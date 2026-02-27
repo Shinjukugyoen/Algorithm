@@ -10,4 +10,4 @@
 </p>
 
 ### 📈 My Baekjoon Tier
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v1/generate_badge?boj=shinjuku_gyoen)](https://solved.ac/shinjuku_gyoen)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shinjuku_gyoen)](https://solved.ac/shinjuku_gyoen)
