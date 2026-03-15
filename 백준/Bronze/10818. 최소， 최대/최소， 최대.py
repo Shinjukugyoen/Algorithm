@@ -1,10 +1,10 @@
-n = int(input())
+_ = int(input())
 num_list = list(map(int, input().split()))
-MAX_num = MIN_num = num_list[0]
+max_num = min_num = num_list[0]
 
 for num in num_list:
-    if num < MIN_num:
-        MIN_num = num
-    if num > MAX_num:
-        MAX_num = num
-print(MIN_num, MAX_num)
+    if num < min_num:
+        min_num = num
+    if num > max_num:
+        max_num = num
+print(min_num, max_num)
